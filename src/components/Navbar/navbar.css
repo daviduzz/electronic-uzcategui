@@ -1,0 +1,20 @@
+.posicion {
+    background: #79B4B7;
+	padding: 25px 20px;
+	z-index: 1;
+	position: sticky;
+	top: 0;
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 2200px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.posicion a {
+    margin: 0 15px;
+    color: black;
+    text-decoration: none;
+    transition: all 0.3s; }
+    .header__content a:hover {
+      color: green; }

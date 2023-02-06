@@ -2,6 +2,8 @@ import Navbar from './components/Navbar/navbar';
 import {useEffect, useState} from 'react';
 import ItemListContainer from './components/ItemListContainer/itemlistcontainer';
 import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailContainer';
+//import BasicExample from './components/bootstrap/tarjeta';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import React from 'react';
 
